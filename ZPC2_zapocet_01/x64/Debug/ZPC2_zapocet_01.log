@@ -1,0 +1,7 @@
+﻿  ZPC2_zapocet_01.c
+C:\(D) data\Škola\Vejška\02 semestr\Základy programování 2 (C)\ZPC2_zapocet_01\ZPC2_zapocet_01\ZPC2_zapocet_01.c(257,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\(D) data\Škola\Vejška\02 semestr\Základy programování 2 (C)\ZPC2_zapocet_01\ZPC2_zapocet_01\ZPC2_zapocet_01.c(258,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\(D) data\Škola\Vejška\02 semestr\Základy programování 2 (C)\ZPC2_zapocet_01\ZPC2_zapocet_01\ZPC2_zapocet_01.c(308,47): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\(D) data\Škola\Vejška\02 semestr\Základy programování 2 (C)\ZPC2_zapocet_01\ZPC2_zapocet_01\ZPC2_zapocet_01.c(250,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\(D) data\Škola\Vejška\02 semestr\Základy programování 2 (C)\ZPC2_zapocet_01\ZPC2_zapocet_01\ZPC2_zapocet_01.c(352): warning C4715: 'set_element_at': not all control paths return a value
+  ZPC2_zapocet_01.vcxproj -> C:\(D) data\Škola\Vejška\02 semestr\Základy programování 2 (C)\ZPC2_zapocet_01\x64\Debug\ZPC2_zapocet_01.exe
